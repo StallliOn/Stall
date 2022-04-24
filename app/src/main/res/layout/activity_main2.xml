@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4CAF50"
+    android:backgroundTint="#4CAF50"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="374dp"
+        android:layout_height="91dp"
+        android:text="Верно, Dragon Lore — тот самый самый дорогой скин в истории Counter-Strike. Впрочем, это не какой-то обычный Dragon Lore. Один счастливчик сумел заполучить его в качестве дропа из кейса Cobblestone с float’ом всего лишь ~0.06! Стоимось: 19632,80$"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
